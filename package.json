@@ -1,6 +1,6 @@
 {
   "name": "@jacckiety/mock-data-generator",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "A simple mock data generator for testing and development.",
   "main": "./src/index.js",
   "scripts": {
@@ -18,5 +18,8 @@
     "development"
   ],
   "author": "JacckietY",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@jacckiety/date-time-utils": "^1.0.0"
+  }
 }
