@@ -1,0 +1,22 @@
+{
+  "name": "@jacckiety/mock-data-generator",
+  "version": "1.0.0", 
+  "description": "A simple mock data generator for testing and development.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "mock",
+    "data",
+    "generator",
+    "testing",
+    "development"
+  ],
+  "author": "JacckietY",
+  "license": "MIT"
+}
